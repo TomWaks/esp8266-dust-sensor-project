@@ -1,5 +1,5 @@
 # esp8266-dust-sensor-project
-Software for microcontroller ESP8266, which is a part of project "Dust Sensor Project"
+Software for microcontroller ESP8266, which is a part of project [Dust Sensor Project"](https://github.com/TomWaks/dust-sensor-project)
 
 ## Microcontroller ES8266
 Microcontroller esp8266 is one of the most popular microcontroller which can act as module WIFI. 
